@@ -1,0 +1,3 @@
+bangladesh,1,2
+roma,3,5
+veletri,6,7
